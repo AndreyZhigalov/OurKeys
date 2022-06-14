@@ -86,6 +86,7 @@ html::-webkit-scrollbar {
   position: relative;
   width: 156px;
   height: 53px;
+  cursor: pointer;
 }
 
 .header__logo,

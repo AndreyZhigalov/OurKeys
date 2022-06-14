@@ -67,6 +67,7 @@ $button-dot: #00f0ff;
     position: relative;
     width: 156px;
     height: 53px;
+    cursor: pointer;
   }
   .header__logo,
   .header__logo {
@@ -213,7 +214,7 @@ $button-dot: #00f0ff;
     width: 849px;
     height: 849px;
     position: relative;
-  }
+  } 
 
   .slider__item:nth-child(1) {
     background-image: url(https://andreyzhigalov.github.io/OurKeys/img/images/keys1.jpg);
