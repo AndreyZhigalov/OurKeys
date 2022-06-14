@@ -289,17 +289,17 @@ html::-webkit-scrollbar {
 }
 
 .slider__item:nth-child(1) {
-  background-image: url(/our_keys/img/images/keys1.png);
+  background-image: url(https://andreyzhigalov.github.io/OurKeys/img/images/keys1.jpg);
   background-size: cover;
 }
 
 .slider__item:nth-child(2) {
-  background-image: url(/our_keys/img/images/keys2.jpg);
+  background-image: url(https://andreyzhigalov.github.io/OurKeys/img/images/keys2.jpg);
   background-size: cover;
 }
 
 .slider__item:nth-child(3) {
-  background-image: url(/our_keys/img/images/keys3.jpg);
+  background-image: url(https://andreyzhigalov.github.io/OurKeys/img/images/keys3.jpg);
   background-size: cover;
 }
 
